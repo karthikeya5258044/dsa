@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/karthikeya5258044/dsa/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/karthikeya5258044/dsa/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/karthikeya5258044/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/karthikeya5258044/dsa/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/karthikeya5258044/dsa/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
