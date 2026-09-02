@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthikeya5258044/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/karthikeya5258044/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/karthikeya5258044/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/karthikeya5258044/dsa/tree/master/0347-top-k-frequent-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/karthikeya5258044/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
